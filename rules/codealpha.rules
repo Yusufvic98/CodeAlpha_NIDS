@@ -1,0 +1,1 @@
+alert icmp 192.168.56.101 any -> 192.168.56.102 any (msg:"CODEALPHA NIDS - ICMP Echo Request to Kioptrix"; itype:8; sid:1000001; rev:1;)

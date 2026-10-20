@@ -1,0 +1,13 @@
+
+# Raw Suricata logs
+logs/*.json
+logs/*.log
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Temporary and editor files
+*.tmp
+*~
+.DS_Store
